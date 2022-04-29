@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Be A nice coder.
+Be a nice coder.
 
 <!--
 **Zen0s/Zen0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
